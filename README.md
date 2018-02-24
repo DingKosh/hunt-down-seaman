@@ -1,2 +1,2 @@
 # hunt-down-seaman
-The repository for the game Hunt Down The Seaman
+The official repository for the game Hunt Down The Seaman
